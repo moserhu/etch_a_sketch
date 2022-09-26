@@ -1,0 +1,22 @@
+
+body 
+{
+        background-color: beige ;
+        color: black;
+        font-family: 'Roboto', sans-serif;
+        line-height: 1.6;
+        /* footer support */
+        margin-bottom: 100px;
+      }
+
+
+.grid 
+{
+    display: grid;
+    width: 500px;
+    height: 500px;
+    background-color: whitesmoke;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+
+  
